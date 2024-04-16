@@ -63,8 +63,8 @@ dotenv library
 
 ###############################################
 
-# Project Title: 
+# Project Title: FlamingoFund$
 
-# Purpose: 
+# Purpose: to raise money for my rugby team
 
-# Team Members: 
+# Team Members: Arlinda Ibezim

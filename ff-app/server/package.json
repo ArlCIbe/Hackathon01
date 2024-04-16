@@ -4,7 +4,8 @@
   "description": "app that allows people to post jobs for my rugby team to do in exchange for money; will also include a section for sponsorship packages and info",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   },
   "homepage": "https://github.com/ArlCIbe/Hackathon01#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2"
   }
 }
