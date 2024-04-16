@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "app that allows people to post jobs for my rugby team to do in exchange for money; will also include a section for sponsorship packages and info",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArlCIbe/Hackathon01.git"
+  },
+  "keywords": [
+    "flamingo",
+    "funds",
+    "sponsorship",
+    "jobs",
+    "fundraise",
+    "rugby",
+    "women"
+  ],
+  "author": "Arlindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArlCIbe/Hackathon01/issues"
+  },
+  "homepage": "https://github.com/ArlCIbe/Hackathon01#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
